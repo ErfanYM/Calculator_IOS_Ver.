@@ -1,5 +1,10 @@
-This is a Simple calculator project in IOS Ver. which i was interested to make it.
-This calculator doing exactly same like IOS calculator in Apple products which can do simple calculations.
-The index.html file contains the html layout of the program.
-The index.js file is a JavaScript, containting the functions that are implemented for calculator to run.
-The style.css file indicates the styling of the webpage which i tried to be similar one in IOS Calculator app.
+#! IOS-Calculator
+
+Designed and developed a fully functional iOS calculator clone to replicate the core functionality of Apple's native calculator app. The project consists of three main components:
+
+index.html: This file serves as the foundation of the application's user interface, providing the layout and structure for the calculator.
+
+index.js: Implemented essential JavaScript functions responsible for the calculator's operations, ensuring it can perform basic arithmetic calculations in a user-friendly manner.
+
+style.css: Created a visually appealing and user-friendly interface by utilizing CSS to mimic the design aesthetics of Apple's iOS calculator app.
+
