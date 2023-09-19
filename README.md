@@ -1,4 +1,4 @@
-#! IOS-Calculator
+# IOS_Calculator
 
 Designed and developed a fully functional iOS calculator clone to replicate the core functionality of Apple's native calculator app. The project consists of three main components:
 
